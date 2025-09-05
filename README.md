@@ -18,4 +18,10 @@ Here are some ideas to get you started:
 - Currently working on a project.
 
 
+🛠️ Tech Stack  
+- Languages: JavaScript (JS), TypeScript (TS), Java  
+- Frameworks: React, Next.js  
+- ORMs & Tools: Prisma
+
+
 
