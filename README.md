@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Frameworks: React, Next.js  
 - ORMs & Tools: Prisma
 - Frameworks: Express, Spring Boot
-- Databases: MySQL, PostgreSQL
+- Databases: MySQL, PostgreSQL, MongoDB
 
 
 
