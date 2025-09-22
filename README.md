@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - I'm a Software developer with interests in Web dev, DevOps, CyberSecurity.
-- I’m currently learning devops
-- Currently working on a project.
+- Currently, I’m learning DevOps and working on a project to apply my skills in practice.
 
 
 🛠️ Tech Stack  
